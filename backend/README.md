@@ -1,0 +1,1 @@
+npm tsc // Para rodar o npm start

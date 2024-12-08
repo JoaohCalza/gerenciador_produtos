@@ -1,0 +1,30 @@
+{
+    "name": "webmob-api",
+    "version": "1.0.0",
+    "author": "João Henrique Calza",
+    "description": "API para gerenciamento de produtos usando PostgreSQL",
+    "main": "dist/server.js",
+    "scripts": {
+        "build": "npx tsc",
+        "start": "node build/server.js",
+        "dev": "nodemon server.ts",
+        "typeorm": "typeorm-ts-node-commonjs"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.5",
+        "express": "^4.17.1",
+        "jsonwebtoken": "^9.0.2",
+        "pg": "^8.5.1",
+        "reflect-metadata": "^0.2.2",
+        "typeorm": "^0.3.20"
+    },
+    "devDependencies": {
+        "@types/express": "^4.17.21",
+        "@types/node": "^14.18.63",
+        "@types/pg": "^7.14.11",
+        "nodemon": "^2.0.22",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.6.2"
+    }
+}

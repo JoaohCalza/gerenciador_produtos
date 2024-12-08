@@ -1,0 +1,130 @@
+.homePage {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .getButton, .addCategoryButton, .submitButton, .cancelButton {
+    margin: 5px;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .getButton:hover, .addCategoryButton:hover, .submitButton:hover, .cancelButton:hover {
+    background-color: #45a049;
+  }
+  
+  .formContainer {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .formTitle {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .categoryForm {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .formInput, .formSelect {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .formButtons {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .categoryList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .categoryItem {
+    margin: 5px 0;
+    padding: 7px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fafafa;
+  }
+  
+  .categoryInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 5px; 
+  }
+  
+  .categoryId, .categoryName {
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+  }
+  
+  .categoryId strong, .categoryName strong {
+    font-weight: bold;
+  }
+  
+  .actionButtons {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  .editButton, .deleteButton {
+    padding: 7px 12px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .editButton {
+    background-color: #FFFF00;
+    color: black;
+  }
+  
+  .deleteButton {
+    background-color: #FF0000;
+    color: white;
+  }
+  
+  .editButton:hover {
+    background-color: #FFD700;
+  }
+  
+  .deleteButton:hover {
+    background-color: #FF4C4C;
+  }
+
+  .message {
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  .message.success {
+    color: #28a745;
+  }
+  
+  .message.error {
+    color: #dc3545;
+  }
+  
