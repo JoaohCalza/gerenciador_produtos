@@ -20,6 +20,8 @@ Características Principais:
 
 🛠️ Backend: TypeScript com Node.js.
 
+
+
 ⚙️ Configuração do Backend:
 
 Acesse a pasta do backend. 
