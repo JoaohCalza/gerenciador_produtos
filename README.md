@@ -12,14 +12,13 @@ Características Principais:
 
 🛠️ Backend: Desenvolvido em TypeScript, com suporte a operações robustas de CRUD.
 
-🌐 Frontend Responsivo: Interface moderna desenvolvida com Next.js e Bootstrap, garantindo uma experiência de usuário fluida.
+🖥️ Frontend Responsivo: Interface moderna desenvolvida com Next.js e Bootstrap, garantindo uma experiência de usuário fluida.
 
-Tecnologias Utilizadas:
+🌐 Tecnologias Utilizadas:
 
 🖥️ Frontend: Next.js, React.js, TypeScript e Bootstrap.
 
-🌐 Backend: TypeScript com Node.js.
-
+🛠️ Backend: TypeScript com Node.js.
 
 ⚙️ Configuração do Backend:
 
@@ -38,7 +37,7 @@ Acesse a pasta do frontend.
 - Inicie o servidor de desenvolvimento:
 - npm run dev
 
-Imagens do Projeto
+Imagens das páginas do Projeto.
 - **Página de Login**  
   ![Página de Login](screenshots/Login.png)
 
