@@ -1,8 +1,8 @@
-O Gerenciador de Produtos é uma aplicação web e mobile que integra backend, frontend e um banco de dados SQL para gerenciar produtos e suas categorias de maneira eficiente.
+O Gerenciador de Produtos é uma aplicação web que integra backend, frontend e um banco de dados SQL para gerenciar produtos e suas categorias de maneira eficiente.
 
 O projeto inclui autenticação de usuários com JWT, garantindo segurança e controle de acesso.
 
-Características Principais
+Características Principais:
 
 🔒 Login Seguro: Sistema de autenticação com JWT para proteger os dados do usuário.
 
