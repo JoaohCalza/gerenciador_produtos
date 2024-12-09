@@ -14,15 +14,13 @@ Características Principais:
 
 🖥️ Frontend Responsivo: Interface moderna desenvolvida com Next.js e Bootstrap, garantindo uma experiência de usuário fluida.
 
-🌐 Tecnologias Utilizadas:
+🌐 **Tecnologias Utilizadas:**
 
-🖥️ Frontend: Next.js, React.js, TypeScript e Bootstrap.
+🖥️ **Frontend**: Next.js, React.js, TypeScript e Bootstrap.
 
-🛠️ Backend: TypeScript com Node.js.
+🛠️ **Backend**: TypeScript com Node.js.
 
-
-
-⚙️ Configuração do Backend:
+⚙️ **Configuração do Backend**:
 
 Acesse a pasta do backend. 
 Configure o arquivo .env com as variáveis necessárias (exemplo: credenciais do banco de dados e secret key do JWT).
