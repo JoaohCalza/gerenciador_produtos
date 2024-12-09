@@ -2,7 +2,7 @@ O Gerenciador de Produtos é uma aplicação web que integra backend, frontend e
 
 O projeto inclui autenticação de usuários com JWT, garantindo segurança e controle de acesso.
 
-Características Principais:
+**Características Principais**:
 
 🔒 Login Seguro: Sistema de autenticação com JWT para proteger os dados do usuário.
 
@@ -29,7 +29,7 @@ Configure o arquivo .env com as variáveis necessárias (exemplo: credenciais do
 - Inicie o servidor:
 - npm start
   
-💻 Configuração do Frontend:
+💻 **Configuração do Frontend**:
 
 Acesse a pasta do frontend. 
 - Instale as dependências:
@@ -37,7 +37,7 @@ Acesse a pasta do frontend.
 - Inicie o servidor de desenvolvimento:
 - npm run dev
 
-Imagens das páginas do Projeto.
+**Imagens das páginas do Projeto**.
 - **Página de Login**  
   ![Página de Login](screenshots/Login.png)
 
