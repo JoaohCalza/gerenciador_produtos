@@ -1,4 +1,3 @@
-Gerenciador de Produtos
 O Gerenciador de Produtos é uma aplicação web e mobile que integra backend, frontend e um banco de dados SQL para gerenciar produtos e suas categorias de maneira eficiente.
 
 O projeto inclui autenticação de usuários com JWT, garantindo segurança e controle de acesso.
@@ -22,16 +21,16 @@ Tecnologias Utilizadas
 ⚙️ Configuração do Backend:
 Acesse a pasta do backend.
 Configure o arquivo .env com as variáveis necessárias (exemplo: credenciais do banco de dados e secret key do JWT).
-Instale as dependências:
+- Instale as dependências:
 - npm install
-Inicie o servidor:
+- Inicie o servidor:
 - npm start
   
 💻 Configuração do Frontend:
 Acesse a pasta do frontend.
-Instale as dependências:
+-Instale as dependências:
 - npm install
-Inicie o servidor de desenvolvimento:
+-Inicie o servidor de desenvolvimento:
 - npm run dev
 
 Imagens do Projeto
